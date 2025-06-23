@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Volume Control Applet
+Comment=Manage your sound volume
+Icon=settings
+Exec=mate-volume-control-status-icon
+Terminal=false
+Type=Application
+NoDisplay=true
+NotShowIn=KDE;GNOME;
+X-GNOME-UsesNotifications=true
+X-Ubuntu-Gettext-Domain=mate-volume-control-status-icon
