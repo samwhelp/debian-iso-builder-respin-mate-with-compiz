@@ -42,13 +42,20 @@ libqt6svg6
 #qt5-style-kvantum-l10n
 
 
+qt6-style-kvantum
+qt6-style-kvantum-themes
+qt6-style-kvantum-l10n
+
+
 
 
 ##
-## ## Package / qt5ct
+## ## Package / qt5ct, qt6ct
 ##
 
 #qt5ct
+
+qt6ct
 
 
 
