@@ -12,7 +12,8 @@
 ##
 
 ## install `mate-media` for `mate-volume-control` and `mate-volume-control-status-icon`
-mate-media
+
+#mate-media
 
 
 
@@ -22,6 +23,8 @@ mate-media
 ##
 
 ## install `alsa-utils` for `amixer`
+
+alsa-base
 alsa-utils
 
 
